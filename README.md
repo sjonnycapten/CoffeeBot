@@ -23,4 +23,4 @@ CoffeeBot is an MQTT-based notification system designed to streamline coffee-mak
 - Custom-designed ESP32 hub with display for central control and request tracking
 - Raspberry Pi running Mosquitto MQTT server as the central communication node
 
-(Created using Claude)
+##### (README Created using Claude)
