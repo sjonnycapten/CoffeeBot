@@ -1,4 +1,4 @@
-# A small script to mannualy publis MQTT commands
+# A small script to mannualy publish MQTT commands
 
 import paho.mqtt.client as mqtt
 import sys
